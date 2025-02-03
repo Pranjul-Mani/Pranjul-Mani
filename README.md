@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Threejs**
 
 - 📫 How to reach me **pranjulmani010@gmail.com**
 
