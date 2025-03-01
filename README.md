@@ -5,8 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjul-mani" alt="pranjul-mani" /></a> </p>
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **Full Stack Project**
 
+- 🌱 I’m currently learning **Nextjs**
 
 - 📫 How to reach me **pranjulmani010@gmail.com**
 
