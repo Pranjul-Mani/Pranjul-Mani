@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjul-mani" alt="pranjul-mani" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning - **Next.js**
 
-- 📫 How to reach me [pranjulmani010@gmail.com](pranjulmani010@gmail.com)
+- 📫 How to reach me - [pranjulmani010@gmail.com](pranjulmani010@gmail.com)
 
-- 👨‍💻 Some of my projects are available at **https://portfolio-delta-ebon-11.vercel.app/**
+- 👨‍💻 Some of my projects are available at - **https://portfolio-delta-ebon-11.vercel.app/**
 
-- ⚡ Fun fact **Beyond coding, I love discussing Space and the Cosmos!**
+- ⚡ Fun fact - **Beyond coding, I love discussing Space and the Cosmos!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
