@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning - **Next.js**
 
-- 📫 How to reach me - [pranjulmani010@gmail.com](pranjulmani010@gmail.com)
-
 - 👨‍💻 Some of my projects are available at - **https://portfolio-delta-ebon-11.vercel.app/**
+  
+- 📫 How to reach me - [pranjulmani010@gmail.com](pranjulmani010@gmail.com)
 
 - ⚡ Fun fact - **Beyond coding, I love discussing Space and the Cosmos!**
 
