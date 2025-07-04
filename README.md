@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjul-mani" alt="pranjul-mani" /></a> </p>
 
-- 🌱 I’m currently learning - **Next.js**
+- 🌱 I’m currently learning - **AWS**
 
 - 👨‍💻 Some of my projects are available at - **https://portfolio-delta-ebon-11.vercel.app/**
   
