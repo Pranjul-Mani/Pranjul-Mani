@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning - **Python and AWS**
 
-- 👨‍💻 Some of my projects are available at - **https://portfolio-delta-ebon-11.vercel.app/**
+- 👨‍💻 Some of my projects are available at - **pranjulmani.me**
   
 - 📫 How to reach me - [pranjulmani010@gmail.com](pranjulmani010@gmail.com)
 
