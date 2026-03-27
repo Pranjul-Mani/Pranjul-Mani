@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning - **Python and AWS**
 
-- 👨‍💻 Some of my projects are available at - **pranjulmani.me**
+- 👨‍💻 Some of my projects are available at - **https://pranjulmani.me/**
   
 - 📫 How to reach me - [pranjulmani010@gmail.com](pranjulmani010@gmail.com)
 
